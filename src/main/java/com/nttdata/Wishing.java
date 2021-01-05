@@ -5,5 +5,6 @@ public class Wishing {
 
         System.out.println("Hi this is srikanth. Good Morning");
         System.out.println("Hi this is srikanth. Good Evening");
+
     }
 }
